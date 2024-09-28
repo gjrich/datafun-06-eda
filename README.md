@@ -14,3 +14,12 @@ git clone https://github.com/gjrich/datafun-06-eda
 
 After doing so, install the project requirements:
 py -m pip install -r requirements.txt
+
+
+
+# Data for EDA
+
+I pulled this data set, CarDetails.csv from Kaggle:
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+
+It contains information about used cars.
