@@ -6,9 +6,6 @@ import pathlib
 
 # Import from external packages
 import pandas as pd
-import sqlite3
-import pathlib
-import pandas as pd
 import os
 from datetime import datetime
 
