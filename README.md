@@ -1,6 +1,10 @@
 ## datafun-06-eda
 Custom Data Analytics Project - Module 6
 
+Project 6 a custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
+
+This demonstrates skills with Jupyter, pandas, Seaborn and popular tools for data analytics.
+
 # Prerequisites
 Python, pip, and git must be installed
 VSCode is also ideal.
@@ -22,4 +26,4 @@ py -m pip install -r requirements.txt
 I pulled this data set, CarDetails.csv from Kaggle:
 https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
-It contains information about used cars.
+It contains information about used cars from India.
